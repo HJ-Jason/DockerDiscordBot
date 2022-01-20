@@ -24,6 +24,8 @@ random_answers =  [
     "Je ne pense pas.",
 ]
 
+
+
 @client.event
 async def on_message(message):
     if message.author == client.user:
